@@ -1,3 +1,4 @@
+/*
 package com.nowcoder.community.controller;
 
 import com.nowcoder.community.service.AlphaService;
@@ -127,3 +128,4 @@ public class AlphaController {
         return list;
     }
 }
+*/
